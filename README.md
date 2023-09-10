@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matrika+Regmi!;" />
 </h1>
 
-<h3 align="center">A passionate developer </h3>
+<h3 align="center">Code enthusiast. 🚀 </h3>
 
 <br/>
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <a href="mailto:matrikaregmi09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/mrt009" target="_blank">
+  <a href="https://linkedin.com/in/matrika-regmi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="matrikaregmi.com.np" target="_blank">
@@ -48,11 +48,14 @@ Here are some ideas to get you started:
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c++,jquery" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,figma,git" />
-    <img src="https://skillicons.dev/icons?i=machinelearing,ai,pandas,tensorflow,pytorch,numpy" />
-</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=atom,bootstrap,github,git,gitlab,figma,linux,mongodb,replit" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,cpp,js,jquery,nodejs,react,redux" /><br>
+       <img src="https://skillicons.dev/icons?i=py,ai,tensorflow" />
+  </a>
+</p></div>
 
 <br/>
 <hr/>
