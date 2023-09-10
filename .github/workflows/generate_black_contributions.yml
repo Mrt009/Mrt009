@@ -1,0 +1,15 @@
+import datetime
+import github_contributions_black
+
+# Define the date range for your contributions (e.g., one year)
+end_date = datetime.date.today()
+start_date = end_date - datetime.timedelta(days=365)
+
+# Generate black contributions with a snake effect
+github_contributions_black.generate_contributions(
+    start_date=start_date.strftime("2023-9-10"),
+    end_date=end_date.strftime("2024-9-10"),
+    username="Mrt009",
+    output="black_contributions.json",
+    snake=True  # Enable snake effect
+)
