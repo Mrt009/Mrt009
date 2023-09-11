@@ -52,9 +52,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,bootstrap,github,git,gitlab,figma,linux,mongodb,replit" alt="Skill Icons" />
-  </a>
+  
 
   <!-- Atom -->
   <a href="https://atom.io">
