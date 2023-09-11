@@ -53,11 +53,145 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,bootstrap,github,git,gitlab,figma,linux,mongodb,replit" /><br>
-      <img src="https://skillicons.dev/icons?i=html,css,cpp,js,jquery,nodejs,react,redux" /><br>
-       <img src="https://skillicons.dev/icons?i=py,ai,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=atom,bootstrap,github,git,gitlab,figma,linux,mongodb,replit" alt="Skill Icons" />
   </a>
-</p></div>
+
+  <!-- Atom -->
+  <a href="https://atom.io">
+    <img src="https://skillicons.dev/icons?i=atom" alt="Atom Icon" />
+  </a>
+
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git Icon" />
+  </a>
+
+  <!-- GitLab -->
+  <a href="https://about.gitlab.com">
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab Icon" />
+  </a>
+
+  <!-- Figma -->
+  <a href="https://www.figma.com">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma Icon" />
+  </a>
+
+  <!-- Linux -->
+  <a href="https://www.linux.org">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux Icon" />
+  </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Icon" />
+  </a>
+
+  <!-- Replit -->
+  <a href="https://replit.com">
+    <img src="https://skillicons.dev/icons?i=replit" alt="Replit Icon" />
+  </a>
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML Icon" />
+  </a>
+
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS Icon" />
+  </a>
+
+  <!-- C++ -->
+  <a href="https://isocpp.org">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++ Icon" />
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript Icon" />
+  </a>
+
+  <!-- jQuery -->
+  <a href="https://jquery.com">
+    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery Icon" />
+  </a>
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Icon" />
+  </a>
+
+  <!-- React -->
+  <a href="https://reactjs.org">
+    <img src="https://skillicons.dev/icons?i=react" alt="React Icon" />
+  </a>
+
+  <!-- Redux -->
+  <a href="https://redux.js.org">
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux Icon" />
+  </a> <br>
+
+  <!-- Python -->
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python Icon" />
+  </a>
+
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow Icon" />
+  </a>
+
+  <!-- AI -->
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ai" alt="AI Icon" />
+  </a>
+
+  <!-- Pandas -->
+ <p align="center">
+  <a href="https://pandas.pydata.org">
+    <svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="#242938" rx="60" />
+      <!-- Replace the following with the actual URL for the Pandas icon -->
+      <image href="https://pandas.pydata.org/static/img/pandas_white.svg" width="100%" height="100%" />
+    </svg>
+  </a>
+</p>
+
+
+  <!-- PyTorch 
+ <a href="https://numpy.org">
+    <svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="#242938" rx="60" />
+      <image href="https://numpy.org/images/logo.svg" width="100%" height="100%" />
+    </svg>
+  </a>-->
+
+
+  <!-- NumPy -->
+  <a href="https://numpy.org">
+    <img src="https://numpy.org/images/logo.svg" alt="NumPy Icon" style="width: 64px; height: 64px; border: 2px light black; padding: 4px;" />
+  </a>
+
+  <!-- Metasploit -->
+  <a href="https://www.metasploitunleashed.com">
+    <img src="https://matplotlib.org/_static/logo_light.svg" alt="Metasploit Icon" style="width: 64px; height: 64px; border: 2px solid black; padding: 4px;" />
+  </a>
+</p>
+
+
+
+
+</div>
 
 <br/>
 <hr/>
