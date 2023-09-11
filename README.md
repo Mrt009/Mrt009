@@ -175,15 +175,15 @@ Here are some ideas to get you started:
   </a>-->
 
 
-  <!-- NumPy -->
+  <!-- NumPy 
   <a href="https://numpy.org">
     <img src="https://numpy.org/images/logo.svg" alt="NumPy Icon" style="width: 64px; height: 64px; border: 2px light black; padding: 4px;" />
   </a>
 
-  <!-- Metasploit -->
+  <!-- Metasploit 
   <a href="https://www.metasploitunleashed.com">
     <img src="https://matplotlib.org/_static/logo_light.svg" alt="Metasploit Icon" style="width: 64px; height: 64px; border: 2px solid black; padding: 4px;" />
-  </a>
+  </a> -->
 </p>
 
 
