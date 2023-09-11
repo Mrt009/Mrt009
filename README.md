@@ -98,7 +98,7 @@ Here are some ideas to get you started:
   <a href="https://replit.com">
     <img src="https://skillicons.dev/icons?i=replit" alt="Replit Icon" />
   </a>
-
+<br>
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML Icon" />
